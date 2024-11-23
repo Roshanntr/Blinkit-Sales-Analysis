@@ -14,13 +14,13 @@ The dataset contains information about BlinkIT's sales and outlet data. Below is
 | **Item Fat Content**  | Category of the item based on fat content (e.g., Low Fat, Regular).         |
 | **Item Visibility**   | The percentage of the product's display area relative to total display area.|
 | **Item Type**         | Broad category to which the item belongs (e.g., Dairy, Snack Foods).        |
-| **Item MRP**          | Maximum Retail Price (in local currency) of the item.                     |
-| **Outlet Identifier** | Unique identifier for the outlet where the item is sold.                  |
+| **Rating**            | Ratings of the item type.
+| **Outlet Identifier** | Unique identifier for the outlet                                            |
 | **Outlet Establishment Year** | Year in which the outlet was established.                            |
 | **Outlet Size**       | Size of the outlet (e.g., Small, Medium, High).                           |
 | **Outlet Location Type** | The type of area where the outlet is located (e.g., Tier 1, Tier 2).      |
 | **Outlet Type**       | Type of the outlet (e.g., Grocery Store, Supermarket).                    |
-| **Item Outlet Sales** | Total sales of the item in the specific outlet (in local currency).       |
+| **Sales**             | Total sales of the item in the specific outlet (in local currency).       |
 
 
 
