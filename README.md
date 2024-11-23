@@ -1,5 +1,30 @@
 # Blinkit-Sales-Analysis
 
+**Objective**
+This project focuses on analyzing sales data from BlinkIT, a leading quick-commerce platform delivering groceries and daily essentials in India. By importing the dataset into MySQL and executing SQL queries, the project explores critical business insights such as sales trends, outlet performance, and customer preferences. The objective is to showcase SQL skills through practical examples while deriving actionable insights that can help optimize operations, improve inventory management, and enhance overall sales performance.
+
+**Data Overview**
+The dataset contains information about BlinkIT's sales and outlet data. Below is a brief description of each column:
+
+
+| Column Name           | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **Item Identifier**   | Unique identifier for each item sold.                                      |
+| **Item Weight**       | Weight of the item (in kilograms).                                         |
+| **Item Fat Content**  | Category of the item based on fat content (e.g., Low Fat, Regular).         |
+| **Item Visibility**   | The percentage of the product's display area relative to total display area.|
+| **Item Type**         | Broad category to which the item belongs (e.g., Dairy, Snack Foods).        |
+| **Item MRP**          | Maximum Retail Price (in local currency) of the item.                     |
+| **Outlet Identifier** | Unique identifier for the outlet where the item is sold.                  |
+| **Outlet Establishment Year** | Year in which the outlet was established.                            |
+| **Outlet Size**       | Size of the outlet (e.g., Small, Medium, High).                           |
+| **Outlet Location Type** | The type of area where the outlet is located (e.g., Tier 1, Tier 2).      |
+| **Outlet Type**       | Type of the outlet (e.g., Grocery Store, Supermarket).                    |
+| **Item Outlet Sales** | Total sales of the item in the specific outlet (in local currency).       |
+
+
+
+
 **1. Calculate the average sales, minimum sales, and maximum sales for each item type.**
 ``` sql
 select `Item Type`, min(Sales), max(sales), avg(sales) from blinkitt
