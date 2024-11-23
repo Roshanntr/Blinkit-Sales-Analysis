@@ -1,9 +1,9 @@
 # Blinkit-Sales-Analysis
 
-# Objective:
+## Objective:
 This project focuses on analyzing sales data from BlinkIT, a leading quick-commerce platform delivering groceries and daily essentials in India. By importing the dataset into MySQL and executing SQL queries, the project explores critical business insights such as sales trends, outlet performance, and customer preferences. The objective is to showcase SQL skills through practical examples while deriving actionable insights that can help optimize operations, improve inventory management, and enhance overall sales performance.
 
-**Data Overview:**
+## Data Overview:
 The dataset contains information about BlinkIT's sales and outlet data. Below is a brief description of each column:
 
 
@@ -23,7 +23,7 @@ The dataset contains information about BlinkIT's sales and outlet data. Below is
 | **Sales**             | Total sales of the item in the specific outlet (in local currency).       |
 
 
-**SQL Queries and Insights:**
+## SQL Queries and Insights:
 This section showcases a collection of SQL queries executed on the BlinkIT dataset to extract meaningful insights and answer critical business questions. Each query is accompanied by its purpose and results to provide a clear understanding of its significance in the context of the data.
 
 
