@@ -23,6 +23,8 @@ The dataset contains information about BlinkIT's sales and outlet data. Below is
 | **Sales**             | Total sales of the item in the specific outlet (in local currency).       |
 
 
+**SQL Queries and Insights:**
+This section showcases a collection of SQL queries executed on the BlinkIT dataset to extract meaningful insights and answer critical business questions. Each query is accompanied by its purpose and results to provide a clear understanding of its significance in the context of the data.
 
 
 **1. Calculate the average sales, minimum sales, and maximum sales for each item type.**
