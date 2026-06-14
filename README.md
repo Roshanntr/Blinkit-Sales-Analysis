@@ -103,10 +103,11 @@ FROM RankedData
 WHERE Ranks <= 3;
 ```
 
-## Power BI Dashboard:
+## Blinkit - Power BI Dashboard (Home Page)
 
 <img width="1527" height="875" alt="Screenshot 2026-06-14 185447" src="https://github.com/user-attachments/assets/61eb7c7b-f2ca-4e14-901a-6c93870ed4b6" />
 
+## Performance Analysis
 <img width="1515" height="857" alt="Screenshot 2026-06-14 185525" src="https://github.com/user-attachments/assets/44a7a1d7-6769-46c9-b6fb-1c62ac14674f" />
 
 
